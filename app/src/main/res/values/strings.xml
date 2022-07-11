@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="name">Walid Elmongi</string>
+    <string name="nickname">Enter Nickname</string>
+    <string name="bio">
+        Many of us would love to be promoted.
+
+        \n\nAdvancement usually means more influence, more money and more control over your day-to-day tasks
+
+        \n\n– just to name a few perks.
+
+        \n\nBut how do you get promoted? Isn’t it out of your hands?
+
+        \n\nNot really. Yes, the decision to be promoted is one your organization ultimately has to make.
+
+        \n\nBut, by proactively pursuing a promotion, you drastically increase your chances.
+
+        \n\nSo, what’s the best way to pursue a promotion? It comes down to two things:
+
+        \n\nacting in a way that’ll warrant a promotion and asking your boss for that promotion.
+
+        \n\nThis article covers both.
+
+        \n\n
+    </string>
+    <string name="star">Star</string>
+    <string name="done">Done</string>
 </resources>
